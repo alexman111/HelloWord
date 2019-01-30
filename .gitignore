@@ -38,5 +38,5 @@ gradle-app.setting
 .gradletasknamecache
 .gradle/**
 build/**
-app/keystore.properties
-key.jks
+#app/keystore.properties
+#key.jks
